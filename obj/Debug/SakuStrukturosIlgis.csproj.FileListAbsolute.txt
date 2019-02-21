@@ -1,0 +1,7 @@
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\bin\Debug\SakuStrukturosIlgis.exe.config
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\bin\Debug\SakuStrukturosIlgis.exe
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\bin\Debug\SakuStrukturosIlgis.pdb
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\obj\Debug\SakuStrukturosIlgis.csprojAssemblyReference.cache
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\obj\Debug\SakuStrukturosIlgis.csproj.CoreCompileInputs.cache
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\obj\Debug\SakuStrukturosIlgis.exe
+C:\Users\Notebook\source\repos\SakuStrukturosIlgis\obj\Debug\SakuStrukturosIlgis.pdb
